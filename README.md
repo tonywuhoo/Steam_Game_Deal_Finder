@@ -10,5 +10,9 @@ at
 
 https://apidocs.cheapshark.com/#b9b738bf-2916-2a13-e40d-d05bccdce2ba
 
+the site is deployed at
+
+https://comforting-empanada-ce6061.netlify.app
+
 
 Enjoy :)
